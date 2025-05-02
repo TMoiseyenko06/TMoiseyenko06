@@ -1,5 +1,4 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>   - Coding Bootcamp<br>🌱 I’m currently learning<br>   -  MongoDB<br>   -  Websockets<br>   -  Python<br>   -  Flask<br>⚡ Fun fact<br>   - I can speak 3 languages
+
 
 
 ## 🌐 Socials:
